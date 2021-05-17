@@ -1,2 +1,0 @@
-(this["webpackJsonpredux-weather-app"]=this["webpackJsonpredux-weather-app"]||[]).push([[0],{11:function(e,t,n){"use strict";n.r(t);var c=n(1),r=n.n(c),i=n(3),s=n.n(i),a=(n(8),n(9),n(0));var p=function(){return Object(a.jsx)("div",{className:"App",children:Object(a.jsx)("h2",{children:"Hi"})})};s.a.render(Object(a.jsx)(r.a.StrictMode,{children:Object(a.jsx)(p,{})}),document.getElementById("root"))},8:function(e,t,n){},9:function(e,t,n){}},[[11,1,2]]]);
-//# sourceMappingURL=main.caff7165.chunk.js.map

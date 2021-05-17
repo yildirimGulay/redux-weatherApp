@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/redux-weatherApp/static/css/main.5f17d147.chunk.css",
-    "main.js": "/redux-weatherApp/static/js/main.caff7165.chunk.js",
-    "main.js.map": "/redux-weatherApp/static/js/main.caff7165.chunk.js.map",
+    "main.css": "/redux-weatherApp/static/css/main.9fd4c42b.chunk.css",
+    "main.js": "/redux-weatherApp/static/js/main.344c44fd.chunk.js",
+    "main.js.map": "/redux-weatherApp/static/js/main.344c44fd.chunk.js.map",
     "runtime-main.js": "/redux-weatherApp/static/js/runtime-main.6f6728bd.js",
     "runtime-main.js.map": "/redux-weatherApp/static/js/runtime-main.6f6728bd.js.map",
-    "static/js/2.707fb833.chunk.js": "/redux-weatherApp/static/js/2.707fb833.chunk.js",
-    "static/js/2.707fb833.chunk.js.map": "/redux-weatherApp/static/js/2.707fb833.chunk.js.map",
+    "static/js/2.8e8bfb3b.chunk.js": "/redux-weatherApp/static/js/2.8e8bfb3b.chunk.js",
+    "static/js/2.8e8bfb3b.chunk.js.map": "/redux-weatherApp/static/js/2.8e8bfb3b.chunk.js.map",
     "index.html": "/redux-weatherApp/index.html",
-    "static/css/main.5f17d147.chunk.css.map": "/redux-weatherApp/static/css/main.5f17d147.chunk.css.map",
-    "static/js/2.707fb833.chunk.js.LICENSE.txt": "/redux-weatherApp/static/js/2.707fb833.chunk.js.LICENSE.txt"
+    "static/css/main.9fd4c42b.chunk.css.map": "/redux-weatherApp/static/css/main.9fd4c42b.chunk.css.map",
+    "static/js/2.8e8bfb3b.chunk.js.LICENSE.txt": "/redux-weatherApp/static/js/2.8e8bfb3b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6f6728bd.js",
-    "static/js/2.707fb833.chunk.js",
-    "static/css/main.5f17d147.chunk.css",
-    "static/js/main.caff7165.chunk.js"
+    "static/js/2.8e8bfb3b.chunk.js",
+    "static/css/main.9fd4c42b.chunk.css",
+    "static/js/main.344c44fd.chunk.js"
   ]
 }
