@@ -1,10 +1,19 @@
 
 import './App.css';
+import Form from './components/Form';
+import Titles from './components/Titles';
+import WeatherApp from './components/WeatherApp';
 
 function App() {
   return (
     <div className="App">
-    <h2>Hi</h2>
+
+      <Titles/>
+      
+      <Form/>
+
+      <WeatherApp/>
+
     </div>
   );
 }
